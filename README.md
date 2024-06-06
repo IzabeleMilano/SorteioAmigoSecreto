@@ -1,7 +1,9 @@
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src="assets/amigo_secreto.png" width="100%">
 </p>
-## 🚀 Tecnologias
+
+
+## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
